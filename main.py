@@ -2,9 +2,9 @@ import os
 
 TEXT = (
     "You have read so many words today. This one is slow. "
-    "Somewhere rain is tapping on a tin roof, drop by drop, "
-    "and a river is carrying one leaf a little further, "
-    "and a little further, and the night is still going on, "
+    "Somewhere rain is tapping on a tin roof, drop by drop. "
+    "A river is carrying one leaf a little further, "
+    "and a little further. And the night is still going on, "
     "wide and unhurried, asking nothing of you."
 )
 
